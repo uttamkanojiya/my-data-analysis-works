@@ -1,1 +1,5 @@
+I have this dataset for data analysis: E-commerce Orders Dataset (Kaggle)
+https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
+For data cleaning i have used the python(pandas).
+Then this updated dataset is used in power BI for making the Dashboard.
