@@ -1,1 +1,5 @@
+I have this dataset for data analysis: Telco Customer Churn Dataset (Kaggle)
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
+For data cleaning i have used the python(pandas).
+Then this updated dataset is used in power BI for making the Dashboard.
